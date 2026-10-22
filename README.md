@@ -1,7 +1,7 @@
 # Creator Engagement Classification 
 Python project exploring the ways a decision tree classifies video engagement using a small sample of social media content. 
 
-I built this over the summer to practice working with structured data, creating classification labels, supervising a model, and evaluating its predictions. There are still many more things to learn but it was fun to connect a hobby of mine to aspects of data science. 
+I built this over the summer to practice working with structured data, creating classification labels, supervised machine learning, and evaluating its predictions. There are still many more things to learn but it was fun to connect a hobby of mine to aspects of data science. 
 
 ## Project Overview
 
